@@ -1,8 +1,8 @@
-# webdriverio-experiment
+# webdriverio-wdio-experiment
 
-This repository is for experiments of [WebdriverIO](http://webdriver.io/).
+This repository is for experiments of [WebdriverIO](http://webdriver.io/) using wdio test runner.
 
-## How To Run
+## How To Setup
 
 The following applications are required to be installed on your computer.
 
@@ -10,14 +10,19 @@ The following applications are required to be installed on your computer.
 - [Node.js](https://nodejs.org/en/) (v8.9.0 LTS or greater)
 - [Google Chrome](https://www.google.com/intl/en/chrome/)
 
-To run this application, type the following commands:
+To setup environment, type the following commands:
 
 ```bash
-git clone https://github.com/TomoyukiAota/webdriverio-experiment
-cd webdriverio-experiment
+git clone https://github.com/TomoyukiAota/webdriverio-wdio-experiment
+cd webdriverio-wdio-experiment
 npm install
+```
 
-# "npm test" executes tests using WebdriverIO.
+## How To Run
+
+The following command run tests using WedriverIO.
+
+```bash
 npm test
 ```
 

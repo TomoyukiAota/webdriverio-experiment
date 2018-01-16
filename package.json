@@ -1,12 +1,12 @@
 {
-  "name": "webdriverio-experiment",
+  "name": "webdriverio-wdio-experiment",
   "version": "1.0.0",
-  "description": "Experiment of WebdriverIO",
+  "description": "Experiment of WebdriverIO using wdio test runner.",
   "main": "index.js",
   "scripts": {
     "test": "wdio"
   },
-  "repository": "https://github.com/TomoyukiAota/webdriverio-experiment",
+  "repository": "https://github.com/TomoyukiAota/webdriverio-wdio-experiment",
   "author": "Tomoyuki Aota",
   "license": "MIT",
   "devDependencies": {
