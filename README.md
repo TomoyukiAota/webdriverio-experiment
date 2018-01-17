@@ -26,6 +26,10 @@ The following command run tests using WedriverIO.
 npm test
 ```
 
+After typing `npm test`, web browser launches and the tests described in `./test/specs/test.js` run.
+
+[![Screen Capture](https://j.gifs.com/G5g1Vy.gif)](https://youtu.be/NVN43SuR3R4)
+
 ## Useful References
 
 - [WebdriverIOを使ってみました : アシアルブログ](http://blog.asial.co.jp/1484)
